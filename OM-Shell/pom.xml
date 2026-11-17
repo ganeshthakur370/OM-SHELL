@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.om</groupId>
+    
     <artifactId>om-shell</artifactId>
     <version>3.0.0</version>
-    <name>OM Shell Ultimate 3.0</name>
+    <name>OM Shell</name>
     <description>Modular advanced Java shell engine (Java 25 Edition)</description>
 
     <properties>
