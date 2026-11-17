@@ -3,7 +3,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import java.nio.charset.StandardCharsets;
 
-/** Dependency-free checks for arrays and the shell signal-trap dispatch path. */
+
 public class ArrayAndSignalSmokeTest {
 
     public static void main(String[] args) {

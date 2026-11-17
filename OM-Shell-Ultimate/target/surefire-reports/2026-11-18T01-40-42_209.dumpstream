@@ -1,0 +1,5 @@
+# Created at 2026-11-18T01:40:43.005
+Boot Manifest-JAR contains absolute paths in classpath 'D:\OM-Shell-Ultimate-Java25-v2.1.1-Fixed\OM-Shell-Ultimate\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

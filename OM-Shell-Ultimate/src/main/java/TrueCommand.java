@@ -3,9 +3,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.List;
 
-/**
- * Returns a successful exit status (0).
- */
+
 public class TrueCommand implements BuiltinCommand {
 
     @Override

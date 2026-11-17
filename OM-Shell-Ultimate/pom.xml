@@ -6,9 +6,9 @@
 
     <groupId>com.om</groupId>
     <artifactId>om-shell</artifactId>
-    <version>2.1.1</version>
-    <name>OM Shell Ultimate</name>
-    <description>A Java 25 shell interpreter and scripting environment</description>
+    <version>3.0.0</version>
+    <name>OM Shell Ultimate 3.0</name>
+    <description>Modular advanced Java shell engine (Java 25 Edition)</description>
 
     <properties>
         <maven.compiler.release>25</maven.compiler.release>
@@ -32,7 +32,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.om.shell.Main</mainClass>
+                            <mainClass>Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -42,7 +42,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.3.0</version>
                 <configuration>
-                    <mainClass>com.om.shell.Main</mainClass>
+                    <mainClass>Main</mainClass>
                 </configuration>
             </plugin>
         </plugins>

@@ -1,0 +1,7 @@
+AdvancedExpansionTest.class
+ArrayAndSignalSmokeTest.class
+V3ModularEngineTest.class
+JobControlSmokeTest.class
+ParserSmokeTest.class
+BashCompatibilityTest.class
+ShellSmokeTest.class
