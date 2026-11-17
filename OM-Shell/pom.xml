@@ -6,7 +6,7 @@
 
     
     <artifactId>om-shell</artifactId>
-    <version>3.0.0</version>
+
     <name>OM Shell</name>
     <description>Modular advanced Java shell engine (Java 25 Edition)</description>
 
